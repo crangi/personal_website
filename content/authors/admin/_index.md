@@ -14,7 +14,7 @@ role: Physics PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Louisiana State University, Baton Rouge
+- name: Louisiana State University
   url: https://www.lsu.edu/physics/
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Physics Graduate student in the [Department of Physics and Astronomy](https://www.lsu.edu/physics/) at [Louisiana State University](https://www.lsu.edu/) in Baton Rouge. My primary research interests encompass Computational Condensed Matter Physics, renormalization group methods and the development of scientific codes. Currently, my research projects revolve around the study of low-dimensional strongly correlated models, employing cutting-edge techniques such as Functional Renormalization Group methods. Additionally, I am actively involved in the development of quantum embedding theories that enable the simulation of condensed matter systems. I also find great joy in exploring various topics within theoretical condensed matter physics, always seeking to expand my knowledge and understanding. One area that has captivated my attention is the profound physics of non-Hermitian Topological phases. At LSU, I am fortunate to have the mentorship of [Prof. Juana Moreno](https://www.lsu.edu/physics/people/faculty/moreno.php) and [Dr. Ka-Ming Tam](http://tamkaming.com/cms/). 
+I am a Physics PhD student in the [Department of Physics and Astronomy](https://www.lsu.edu/physics/) at [Louisiana State University](https://www.lsu.edu/) in Baton Rouge. My primary research interests encompass Computational Condensed Matter Physics, renormalization group methods and the development of scientific codes. Currently, my research projects revolve around the study of low-dimensional strongly correlated models, employing cutting-edge techniques such as Functional Renormalization Group methods. Additionally, I am actively involved in the development of quantum embedding theories that enable the simulation of condensed matter systems. I also find great joy in exploring various topics within theoretical condensed matter physics, always seeking to expand my knowledge and understanding. One area that has captivated my attention is the profound physics of non-Hermitian Topological phases. At LSU, I am fortunate to have the mentorship of [Prof. Juana Moreno](https://www.lsu.edu/physics/people/faculty/moreno.php) and [Dr. Ka-Ming Tam](http://tamkaming.com/cms/). 
 
 I completed my BS-MS Dual Degree with a major in Physics at the [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in) in 2020. Additionally, I had the privilege of being a long-term research visitor at the [Jawaharlal Nehru Center for Advanced Scientific Studies in Bengaluru](https://www.jncasr.ac.in).
 
