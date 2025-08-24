@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Chakradhar Rangi</title>
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu6486c285d0c8ff98a173d1783271b5db_1099604_512x512_fill_lanczos_center_3.png</url>
+      <title>Publication_types</title>
+      <link>/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

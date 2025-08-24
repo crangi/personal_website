@@ -5,7 +5,7 @@ authors:
 - admin
 - Ka-Ming Tam
 - Juana Moreno
-date: "2024-03-05"
+date: "2024-07-23"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -30,6 +30,8 @@ summary: We present a method employing non-equilibrium dynamical mean-field theo
 links:
 - name:	arXiv:2403.03214
   url: https://arxiv.org/abs/2403.03214
+- name: Chaos 34, 073143
+  url: https://pubs.aip.org/aip/cha/article-abstract/34/7/073143/3304167/Out-of-time-order-correlation-of-the-Hubbard-model?redirectedFrom=fulltext
 url_pdf: https://arxiv.org/abs/2403.03214.pdf
 url_project: ''
 url_slides: ''

@@ -4,7 +4,7 @@ authors:
 - admin
 - Ka-Ming Tam
 - Juana Moreno
-date: "2023-07-06"
+date: "2024-02-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,7 +14,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -29,6 +29,8 @@ summary: We propose a non-Hermitian 2nd order topological insulator in 2D quasi-
 links:
 - name:	arXiv:2307.03178
   url: https://arxiv.org/abs/2307.03178
+- name: Phys. Rev. B 109, 064203
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064203
 url_pdf: https://arxiv.org/pdf/2307.03178.pdf
 url_project: ''
 url_slides: ''

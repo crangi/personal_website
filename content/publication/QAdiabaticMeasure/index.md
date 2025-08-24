@@ -9,7 +9,7 @@ authors:
 - Varadharajan Srinivasan
 - Sebastian Wuster
 
-date: "2023-05-16"
+date: "2024-03-22"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -34,6 +34,8 @@ summary: We construct a measure for the adiabatic contribution to quantum transi
 links:
 - name:	arXiv:2007.10707
   url: https://arxiv.org/abs/2007.10707
+- name: Phys. Rev. Lett. 132, 126903
+  url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.126903
 url_pdf: https://arxiv.org/pdf/2007.10707.pdf
 url_video: ''
 

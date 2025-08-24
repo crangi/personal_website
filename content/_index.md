@@ -56,7 +56,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: crangi1@lsu.edu
+      email: rchakri25@gmail.com
       address:
         street: 280, James W. Nicholsan Hall
         city: Baton Rouge
@@ -68,10 +68,10 @@ sections:
         latitude: '30.412489659787003' 
         longitude: '-91.17835321752626'
       contact_links:
-        - icon: twitter
+        - icon: linkedin
           icon_pack: fab
-          name: rchakri25
-          link: 'https://twitter.com/rchakri25'
+          name: Chakradhar Rangi
+          link: https://www.linkedin.com/in/chakradhar-rangi/
         - icon: github
           icon_pack: fab
           name: crangi

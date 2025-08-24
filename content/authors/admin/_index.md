@@ -10,7 +10,7 @@ authors:
 superuser: true
 highlight_name: true
 # Role/position
-role: Physics PhD Student
+role: Doctoral candidate in computational physics 
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,9 @@ bio: My research interests include Computational Condensed Matter Physics and de
 
 interests:
 - Computational Condensed Matter Physics
-- Statistical Physics and Renormalization group
 - Non-Hermitian Topological Phases
+- AI for Science
+- Quantitative Finance
 
 education:
   courses:
@@ -41,10 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:crangi1@lsu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:rchakri25@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.in/citations?user=aeICSaYAAAAJ&hl=en
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/rchakri25
+  link: https://www.linkedin.com/in/chakradhar-rangi/
 - icon: github
   icon_pack: fab
   link: https://github.com/crangi
