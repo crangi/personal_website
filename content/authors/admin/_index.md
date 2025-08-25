@@ -66,12 +66,15 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I'm a Physics PhD candidate at [Louisiana State University](https://www.lsu.edu/physics/), where I build computational models to understand the strange world of quantum materials.
 
-I am a Physics PhD student in the [Department of Physics and Astronomy](https://www.lsu.edu/physics/) at [Louisiana State University](https://www.lsu.edu/) in Baton Rouge. My primary research interests encompass Computational Condensed Matter Physics, renormalization group methods and the development of scientific codes. Currently, my research projects revolve around the study of low-dimensional strongly correlated models, employing cutting-edge techniques such as Functional Renormalization Group methods. Additionally, I am actively involved in the development of quantum embedding theories that enable the simulation of condensed matter systems. I also find great joy in exploring various topics within theoretical condensed matter physics, always seeking to expand my knowledge and understanding. One area that has captivated my attention is the profound physics of non-Hermitian Topological phases. At LSU, I am fortunate to have the mentorship of [Prof. Juana Moreno](https://www.lsu.edu/physics/people/faculty/moreno.php) and [Dr. Ka-Ming Tam](http://tamkaming.com/cms/). 
+My research lies at the intersection of computational physics and condensed matter theory. I specialize in developing advanced numerical algorithms to simulate complex phenomena in strongly correlated and disordered quantum systems. A core part of my work involves the development and application of quantum embedding theories, such as Dynamical Mean-Field Theory, to probe the non-equilibrium dynamics of these systems. I'm also captivated by the fascinating physics of non-Hermitian quantum phenomena, including the non-Hermitian skin effect. At LSU, I am fortunate to be mentored by [Prof. Juana Moreno](https://www.lsu.edu/physics/people/faculty/moreno.php) and [Dr. Ka-Ming Tam](http://tamkaming.com/cms/). 
 
-I completed my BS-MS Dual Degree with a major in Physics at the [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in) in 2020. Additionally, I had the privilege of being a long-term research visitor at the [Jawaharlal Nehru Center for Advanced Scientific Studies](https://www.jncasr.ac.in) in Bengaluru, India.
+My journey in physics includes a BS-MS Dual Degree from the [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in). For my MS thesis, I contributed to the [LITESOPH](https://aitgcodes.github.io/litesoph-website/index.html) project by developing efficient scientific codes to model non-adiabatic dynamics. I've also had the privilege of applying my skills in diverse settings, including a summer internship at [Los Alamos National Laboratory](https://www.lanl.gov) modeling non-linear light-matter interactions and as a long-term research visitor at [Jawaharlal Nehru Center for Advanced Scientific Studies](https://www.jncasr.ac.in).
 
-Beyond my research pursuits, I am deeply motivated to promote Science Education and Open Science. I believe in the power of education and collaboration to propel scientific progress and ensure the accessibility of knowledge.
+When I'm not running simulations, I enjoy playing cricket, table tennis, and chess. I'm an avid chess player on Chess.com (rapid controls are my favorite). Fancy a game? Challenge me: qtinkerer.
 
-Please feel free to reach out if you have any questions.
+I'm always open to discussing physics, new research, or potential collaborations. Feel free to explore my [publications](#featured), or connect with me on [LinkedIn](https://www.linkedin.com/in/chakradhar-rangi/).
+
+Peer Reviewer: Physical Review B, Physical Review A, Chaos
 
